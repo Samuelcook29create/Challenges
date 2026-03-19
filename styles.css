@@ -1,0 +1,21 @@
+body {
+    --text: #00ffe1;
+    --background: #000000;
+    --primary: #2f27ce;
+    --secondary: #dedcff;
+    --accent: #433bff;
+
+}
+
+body {
+    background-color: var(--background);
+    color: var(--text);
+}
+
+.sub {
+    color: var(--primary);
+}
+button{
+    background-color: darkgreen;
+    color: red;
+}
